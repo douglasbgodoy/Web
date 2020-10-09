@@ -1,2 +1,2 @@
 # Web
-Programming HTML, CSS , PHP
+Programming HTML, CSS, PHP, Javascript
